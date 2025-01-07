@@ -5,7 +5,7 @@
     "dark": "trickleicon.png",
     "light": "trickleicon.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "trickleicon.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "support@trickle.so"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Home",
+    "url": "https://www.trickle.so"
   },
   "tabs": [
     {
